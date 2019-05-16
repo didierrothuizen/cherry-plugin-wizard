@@ -1,0 +1,11 @@
+{
+    "name": "mjhead/cherry-plugin-wizard",
+    "description": "...",
+    "authors": [
+        {
+            "name": "Didier Rothuizen",
+            "email": "didier.rothuizen@digitpaint.nl"
+        }
+    ],
+    "require": {}
+}
